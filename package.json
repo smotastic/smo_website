@@ -1,0 +1,23 @@
+{
+  "name": "smo_website",
+  "version": "1.0.0",
+  "description": "Personal Website with Vuepress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smotastic/smo_website.git"
+  },
+  "author": "smotastic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smotastic/smo_website/issues"
+  },
+  "homepage": "https://github.com/smotastic/smo_website#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.9"
+  }
+}
